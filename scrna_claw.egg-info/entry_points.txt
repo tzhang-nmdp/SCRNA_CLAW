@@ -1,0 +1,5 @@
+[console_scripts]
+oc = scrna_claw.cli:main
+oc-chat = scrna_claw.interactive:main
+scrna_claw = scrna_claw.cli:main
+scrna_claw-chat = scrna_claw.interactive:main
